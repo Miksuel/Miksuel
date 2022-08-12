@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miksuel
 - 👀 I’m interested in programming and chess.
 - 🌱 I’m currently learning programming and chess.
-- 💞️ I’m looking to collaborate on anything that would benefit the project from my limited skills.
+- 💞️ I’m looking to collaborate on anything that would benefit from my limited skills.
 - 📫 Just reach me on Github.
 
 <!---
